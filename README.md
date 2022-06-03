@@ -9,6 +9,10 @@ Notes on Tensorflow with Mac M1
 6. Install base TensorFlow:  `python -m pip install tensorflow-macos`
 7. Install tensorflow-metal:  `python -m pip install tensorflow-metal`
 
+## Fast setup
+
+* run `make install` after installing miniforge
+
 ## References
 
 * [Tensorflow Plugin for Metal](https://developer.apple.com/metal/tensorflow-plugin/)
