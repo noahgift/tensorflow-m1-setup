@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#vscode
+.vscode/
+
+#tfdatasets
+~
+
 # C extensions
 *.so
 
