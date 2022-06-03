@@ -16,7 +16,7 @@ Notes on Tensorflow with Mac M1
 ## Verify
 
 * run `jupyter notebook` and then run all cells in `keras-mnist-hello-world.ipynb`
-* Check GPU History to verify saturation
+* Check GPU History in Activity Monitor to verify saturation
 
 ## References
 
