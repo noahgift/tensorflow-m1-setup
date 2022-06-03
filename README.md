@@ -13,6 +13,11 @@ Notes on Tensorflow with Mac M1
 
 * run `make install` after installing miniforge
 
+## Verify
+
+* run `jupyter notebook` and then run all cells in `keras-mnist-hello-world.ipynb`
+* Check GPU History to verify saturation
+
 ## References
 
 * [Tensorflow Plugin for Metal](https://developer.apple.com/metal/tensorflow-plugin/)
