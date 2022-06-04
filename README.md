@@ -21,3 +21,5 @@ Notes on Tensorflow with Mac M1
 ## References
 
 * [Tensorflow Plugin for Metal](https://developer.apple.com/metal/tensorflow-plugin/)
+* [Watch walkthrough on O'Reilly](https://learning.oreilly.com/videos/learn-to-setup/06032022VIDEOPAIML/)
+* [Watch walkthrough on YouTube](https://www.youtube.com/watch?v=Oo4--yX0gfo)
